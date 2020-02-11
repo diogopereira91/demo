@@ -1,14 +1,52 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"vehicles":[
+    {
+        "id":"p30081",
+        "modelYear":"2016",
+        "media":[
+            {   
+                "name":"Peugeot 3008",
+                "file":"3008.jpg"
+            }
+        ]
+    },
+    {
+        "id":"rc1",
+        "modelYear":"2012",
+        "media":[
+            {
+                "name":"Renault Clio",
+                "file":"clio.jpg"
+            }
+        ]
+    },
+    {
+        "id":"nm1",
+        "modelYear":"2017",
+        "media":[
+            {
+                "name":"Nissan Micra",
+                "file":"micra.jpg"
+            }
+        ]
+    },
+    {
+        "id":"vp1",
+        "modelYear":"2017",
+        "media":[
+            {
+                "name":"Volkswagen Polo",
+                "file":"polo.jpg"
+            }
+        ]
+    },
+    {
+        "id":"ty1",
+        "modelYear":"2017",
+        "media":[
+            {
+                "name":"Toyota Yaris",
+                "file":"yaris.jpg"
+            }
+        ]
+    }
+]}
